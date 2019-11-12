@@ -1,0 +1,5 @@
+com\modules\modulesCRUD\controller\IndexController.class
+com\modules\modulesCRUD\dao\ModuleDalImpl.class
+com\modules\modulesCRUD\model\Module.class
+com\modules\modulesCRUD\dao\ModuleDal.class
+com\modules\modulesCRUD\ModulesCrudApplication.class
